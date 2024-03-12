@@ -1,4 +1,4 @@
-# To run this script first amend the file paths in lines 20, 23 and 26.
+# To run this script first amend the file paths in lines 21, 24 and 27.
 
 # Open QGIS
 # Open the python console 
